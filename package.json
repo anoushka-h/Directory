@@ -1,0 +1,19 @@
+{
+ "name": "directory",
+ "version": "1.0.0",
+ "description": "",
+ "main": "server.js",
+ "dependencies": {
+  "express": "^4.17.1",
+  "express-jwt": "^5.3.3",
+  "jwks-rsa": "^1.8.0",
+  "nodemon": "^2.0.4"
+ },
+ "devDependencies": {},
+ "scripts": {
+  "start": "node server.js",
+  "dev": "nodemod server.js"
+ },
+ "author": "",
+ "license": "ISC"
+}
